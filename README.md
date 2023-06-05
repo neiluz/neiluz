@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/neivyslgonzalezg/**
 
-- 👨‍💻 My first project in Data **https://github.com/neiluz/IT_Academy_ProyectoFinal**
+- 👨‍💻 My first project in Data Science **https://github.com/neiluz/IT_Academy_ProyectoFinal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
