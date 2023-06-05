@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Neivys Luz</h1>
-<h3 align="center">I have a background in the energy industry, specializing in the development of oil and gas wells. I am eager to explore the field of Data Science and leverage my expertise and experience in this domain.</h3>
+<h3 align="center">I have a background in the energy industry, specializing in the drilling and completion oil and gas wells. I am currently transitioning into the field of Data Science, and I look forward to applying these skills in my next role and contributing to the success of my team and organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neiluz&label=Profile%20views&color=0e75b6&style=flat" alt="neiluz" /> </p>
 
 - 👀 I’m interested in **Data Science & Data Analytics.**
 
-- 🌱 I’m currently learning **Machine Learning, NLP**
+- 🌱 I’m currently learning **Machine Learning, NLP.**
 
-- 👯 I’m looking to collaborate on **Data Science & Data Analytics Projects**
+- 👯 I’m looking to collaborate on **Data Science & Data Analytics Projects.**
 
-- 🤝 I’m looking for help with **Data Science in NLP and good social projects**
+- 🤝 I’m looking for help with **Data Science in NLP and good social projects.**
 
 - ⚡ Fun fact [...](...)
 
