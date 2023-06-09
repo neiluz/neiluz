@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Science in NLP and good social projects.**
 
-- ⚡ Fun fact [...](...)
+- ⚡ Fun fact I'm a geek for Korean dramas, Harry Potter, and The Lord of the Rings.
 
 - 📫 How to reach me **https://www.linkedin.com/in/neivyslgonzalezg/**
 
