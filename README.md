@@ -5,11 +5,11 @@
 
 - 👀 I’m interested in **Data Science & Data Analytics.**
 
-- 🌱 I’m currently learning **Machine Learning, NLP.**
+- 🌱 I’m currently learning **Data Analysts with Women in Tech Program with Glovo and KeepCoding**, **Machine Learning, NLP.**
 
 - 👯 I’m looking to collaborate on **Data Science & Data Analytics Projects.**
 
-- 🤝 I’m looking for help with **Data Science in NLP and good social projects.**
+- 🤝 I’m looking for help with **Data Science in NLP and social projects.**
 
 - ⚡ Fun fact: I'm a geek for **Korean dramas, Harry Potter, and The Lord of the Rings**.
 
